@@ -3,7 +3,7 @@ sObject List Sort fo Salesforce APEX  Ordena qualquer lista de sObject do Salesf
 
 Sort any list on Salesforce pass list&lt;sObjet> and FieldName
 
-
+{
 //==============================================
    // Criado por: Rodrigo Chiarato Domingues
    // Data: 27/03/2020 00:47
@@ -52,3 +52,4 @@ Sort any list on Salesforce pass list&lt;sObjet> and FieldName
 
       return lstsObjectsOrdenada;
    }
+}
